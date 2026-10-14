@@ -1,2 +1,2 @@
-# lego_DB
+# lego_proxy
 Lego Inventory Database
